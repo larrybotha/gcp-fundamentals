@@ -122,6 +122,7 @@ Fully managed SQL databases
 ### Bigtable vs Datastore
 
 [Bigtable - what it's good for](https://cloud.google.com/bigtable/docs/overview#what-its-good-for)
+
 [Cloud Datastore - what it's good for](https://cloud.google.com/datastore/docs/concepts/overview#what_its_good_for)
 
 ## Big Data
