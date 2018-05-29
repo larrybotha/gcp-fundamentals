@@ -7,7 +7,7 @@ Good for getting started quickly with predefined configurations.
 1. Visit https://console.cloud.google.com/launcher/browse
 2. Enter 'node' in search
 3. Select the 'Node.js application runtime' option
-4. Click 'Launc On Compute Engine'
+4. Click 'Launch On Compute Engine'
 5. Select regions, zones, VM specs etc.
 6. Select 'Allow HTTP traffic'
 7. Click 'Deploy'
