@@ -16,6 +16,8 @@ Deployment manager then shows the instance starting up.
 
 Once launched one can visit the site, or SSH in.
 
+![Successful deployment](./assets/02-successful-deployment.jpg)
+
 ## Compute Engine
 
 Under [Compute Engine](https://console.cloud.google.com/compute/instances) we can view running instances.
