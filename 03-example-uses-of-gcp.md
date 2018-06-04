@@ -10,7 +10,7 @@ Khan Academy use Google App Engine:
 
 ## Coca-Cola Happiness Flag
 
-[happinessflag](http://www2.happinessflag.com/)
+[happinessflag.com](http://www2.happinessflag.com/)
 
 [Google Cloud guest post](https://medium.com/google-cloud/ci-t-uses-google-cloud-platform-to-power-the-coca-cola-happiness-flag-unveiled-on-the-pitch-at-3337f11392cc)
 
