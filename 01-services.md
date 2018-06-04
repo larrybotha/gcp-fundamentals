@@ -1,4 +1,4 @@
-# GCP Services
+# 1. GCP Services
 
 GCP includes IaaS and PaaS. SaaS, such as Gmail, fall outside of the scope of GCP.
 
