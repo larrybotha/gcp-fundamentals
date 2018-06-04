@@ -1,4 +1,4 @@
-# Cloud Launcher
+# 2. Cloud Launcher
 
 Good for getting started quickly with predefined configurations.
 
