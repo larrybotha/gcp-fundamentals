@@ -49,11 +49,11 @@ Everything in the command line tool is now available in the web shell inside the
     - authorisation
         - you can access what you are authorised to access
     - Google make OAuth 2 easy, as many devs struggle to wrap their heads around it
-        - before OAuth, to access your Google data via an app:
+        - before OAuth, to access a user's Google data via an app:
             - store user's data on app
             - app impersonates user to make requests
         - with OAuth, to access data via an app
-            - OAuth gives 3-legged flow
+            - OAuth uses a 3-legged flow
                 - application requests from Google a scope of access, e.g. get mails from Gmail
                 - Google redirects user to login and consent screen
                 - use either grants app permissions or not
