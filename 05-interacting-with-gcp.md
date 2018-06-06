@@ -59,8 +59,7 @@ Everything in the command line tool is now available in the web shell inside the
                 - use either grants app permissions or not
                 - if user accepts, then app can request data from Google without storing any credentials
 - enabled through Google Developers Console
-    -
-        ```bash
+    -   ```bash
         $ gcloud compute regions list
         # if error, then compute has not been enabled for the current project
         
