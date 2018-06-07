@@ -74,3 +74,17 @@ To read from the bucket created:
 1. select teh readonly scope
 2. authorise
 3. exchange authorisation code for tokens
+    - once exchanged, we receive an access token and refresh token in the response
+    - our app uses the access token to make requests to the API
+    - access tokens have a lifespan - this is where the refresh token comes into play
+    - the refresh token is used to refresh the lifespan of the access token
+    - refreshing the token changes the access token and resets the lifespan
+4. make a request:
+    - we can create the request by hand,
+    - or we can list all possible operations using the button provided
+    - select 'list objects' and replace the bucket name placeholder in the input
+        
+        ```http
+        https://www.googleapis.com/storage/v1/b/{bucket}/o
+        ```
+    - make the request and view the response
