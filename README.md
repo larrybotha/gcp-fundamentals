@@ -6,7 +6,7 @@
 4. [Create a project](04-create-a-project.md)
 5. [Interacting with Google Cloud Platform](05-interacting-with-gcp.md)
 6. [API Explorer and OAuth 2.0 Playground](06-api-explorer-and-oauth-2-playground.md)
-7. [Configure Cloud SDK on A Compute Engine Instance](07-configure-cloud-sdk-on-compute-engine-instance.md)
+7. [Configure Cloud SDK on a Compute Engine instance](07-configure-cloud-sdk-on-compute-engine-instance.md)
 
 ## Resources
 
