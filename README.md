@@ -8,6 +8,7 @@
 6. [API Explorer and OAuth 2.0 Playground](06-api-explorer-and-oauth-2-playground.md)
 7. [Configure Cloud SDK on a Compute Engine instance](07-configure-cloud-sdk-on-compute-engine-instance.md)
 8. [Projects](08-projects.md)
+9. [Google Compute Engine](09-google-compute-engine.md)
 
 ## Resources
 
