@@ -9,6 +9,7 @@
 7. [Configure Cloud SDK on a Compute Engine instance](07-configure-cloud-sdk-on-compute-engine-instance.md)
 8. [Projects](08-projects.md)
 9. [Google Compute Engine](09-google-compute-engine.md)
+10. [Deploy a web application using Google Compute Engine](10-deploy-a-web-application-using-google-compute-engine.md)
 
 ## Resources
 
