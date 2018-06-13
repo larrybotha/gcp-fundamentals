@@ -46,7 +46,7 @@ An instance can be created via Cloud SDK or via the web UI. We'll use the web UI
     ```
 9. once the instance is created we can see it running, and SSH into it
 
-## Deply an application onto the instance
+## Deploy an application onto the instance
 
 There are a few ways to deploy an application to an instance:
 
@@ -107,3 +107,20 @@ We'll SSH through the browser window:
     # and running the image called app-frontend/python-redis
     $ docker run -p 80:80 --link redis_db:db app-frontend/python-redis
     ```
+8. attempting to visit the external IP (available via the isntance line item in Cloud Console) will timeout - we haven't yet allowed HTTP traffic to the instance
+9. firewall rules can modified in 2 ways:
+    - go to [Firewall rules](https://console.cloud.google.com/networking/firewalls) udner Network settings and add a rule there
+    - edit the instance directly to allow HTTP traffic
+10. on the instance's page:
+    - click 'Edit'
+    - check 'allow HTTP traffic'
+    - click 'save'
+11. once the firewall rule is configured, an HTTP rule is added to the [Firewall rules](https://console.cloud.google.com/networking/firewalls) page
+    - on the firewall rules the HTTP rule has a `http-server` target
+    - on the instance there's a *Network tag* with `http-server` signifying the relationship between the rule and the instance
+    
+## Tearing down the instance
+
+- the instance is created with a boot disk. This can be automatically deleted when the instance is deleted by configuring settings on the instance itself. By default the boot disk is deleted when the instance is deleted.
+- the disks associated with the instances in the current project can be viewed on the  [Disks](https://console.cloud.google.com/compute/disks) page
+- the instance can be deleted either through the web UI or the the Cloud SDK
