@@ -84,7 +84,7 @@ We'll SSH through the browser window:
 5. download the application. `git` is already installed, so all we need to do is clone it:
 
     ```bash
-    $ git clone https://github.com/GoogleCloudPlatformTraining/cp100-compute-engine-python
+    $ git clone https://github.com/larrybotha/cp100-compute-engine-python
     ```
     
     This repo contains a Docker file and the application, so we can Docker's `build` command to build an image.
