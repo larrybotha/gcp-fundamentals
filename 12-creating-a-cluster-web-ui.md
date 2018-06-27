@@ -4,7 +4,7 @@ We'll build a cluster with:
 
 - 1 replication controller
 - 1 service
-- 1 pod
+- 1 pod running both a frontend and database
 
 ## Create a cluster
 
