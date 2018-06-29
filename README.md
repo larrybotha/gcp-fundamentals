@@ -15,6 +15,7 @@ Notes and annotations from learning about GCP fundamentals through [CBTNuggets G
 11. [Google Container Engine](11-google-container-engine.md)
 12. [Creating a cluster using the web UI](12-creating-a-cluster-web-ui.md)
 13. [Google App Engine](13-google-app-engine.md)
+14. [Getting started with App Engine](14-getting-started-with-app-engine.md)
 
 ## Resources
 
