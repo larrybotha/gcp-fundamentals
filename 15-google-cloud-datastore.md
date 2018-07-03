@@ -1,4 +1,4 @@
-# 16 - Google Cloud Datastore
+# 15 - Google Cloud Datastore
 
 - Datastore eliminates the need for a DBA. Google takes care of:
     - high availability
