@@ -254,3 +254,7 @@ application = webapp2.WSGIApplication([
     ('/clear', Clear),
 ], debug=True)
 ```
+
+## Cleanup
+
+Stop the compute instance used to clone and deploy the app.
