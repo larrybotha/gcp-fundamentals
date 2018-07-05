@@ -19,6 +19,7 @@ Notes and annotations from learning about GCP fundamentals through [CBTNuggets G
 15. [Google Cloud Datastore](15-google-cloud-datastore.md)
 16. [Getting started with Cloud Datastore](16-getting-started-with-cloud-datatstore.md)
 17. [Google Cloud Storage](17-google-cloud-storage.md)
+18. [Getting started with Cloud Storage](18-getting-started-with-cloud-storage.md)
 
 ## Resources
 
