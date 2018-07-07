@@ -21,6 +21,7 @@ Notes and annotations from learning about GCP fundamentals through [CBTNuggets G
 17. [Google Cloud Storage](17-google-cloud-storage.md)
 18. [Getting started with Cloud Storage](18-getting-started-with-cloud-storage.md)
 19. [Google Cloud SQL](19-google-cloud-sql.md)
+20. [Goolge BigQuery](20-google-bigquery.md)
 
 ## Resources
 
