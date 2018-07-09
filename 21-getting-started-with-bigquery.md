@@ -50,3 +50,5 @@ We will use the App Engine project created in [#14](14-getting-started-with-app-
 
 1. Under [Log Exports](https://console.cloud.google.com/logs/exports) delete the export
 2. In [BigQuery](https://bigquery.cloud.google.com/) delete your dataset
+
+Make sure to also delete the compute instance and storage created in the earlier demos.
