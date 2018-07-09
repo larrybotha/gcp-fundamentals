@@ -1,4 +1,4 @@
-# 21. Getting starte with BigQuery
+# 21. Getting started with BigQuery
 
 We will stream our App Engine logs into BigQuery and query the data.
 
