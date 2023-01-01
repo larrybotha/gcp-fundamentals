@@ -1,6 +1,6 @@
 # Google Cloud Platform Fundamentals
 
-Notes and annotations from learning about GCP fundamentals through [CBTNuggets GCP Fundamentals](https://www.cbtnuggets.com/it-training/google-cloud-platform-fundamentals)
+Notes and annotations from learning about GCP fundamentals through [CBTNuggets GCP Fundamentals](https://www.cbtnuggets.com/it-training/google-cloud/platform)
 
 1. [GCP services](01-services.md)
 2. [Cloud Launcher](02-cloud-launcher.md)
